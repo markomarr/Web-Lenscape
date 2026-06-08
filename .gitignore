@@ -42,3 +42,7 @@ next-env.d.ts
 
 # Internal project documentation
 prd.md
+
+# Claude Code generated files
+CLAUDE.md
+AGENTS.md
